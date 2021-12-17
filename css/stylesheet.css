@@ -6,7 +6,7 @@ body {
 	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
 				url("../img/background.gif") no-repeat center center fixed;
 	background-size: cover;
-	font-family: "Open Sans", Helvetica;
+	font-family: "Minecraft", Helvetica;
 	margin: 0;
 	position: relative;
 }
