@@ -63,7 +63,7 @@ $(document).ready(() => {
     // Updates every minute (not worth changing due to API cache)
     setInterval(() => {
         updatePlayercount(ip, port);
-    }, 60000);
+    }, 6000);
 });
 
 const updatePlayercount = (ip, port) => {
